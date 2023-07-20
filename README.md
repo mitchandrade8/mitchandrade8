@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mitchandrade8&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
+
+[![Mitch's github stats](https://github-readme-stats.vercel.app/api?username=mitchandrade8)](https://github.com/anuraghazra/github-readme-stats)

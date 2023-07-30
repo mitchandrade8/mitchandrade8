@@ -20,4 +20,4 @@
 
 [![Mitch's github stats](https://github-readme-stats.vercel.app/api?username=mitchandrade8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchandrade8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchandrade8&size_weight=0.5&count_weight=0.5)

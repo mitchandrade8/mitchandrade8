@@ -16,7 +16,7 @@
 -
 -->
 
-✅ Tracking my daily|streaks|total coding habits
+✅ Tracking my coding habits
 
 
 

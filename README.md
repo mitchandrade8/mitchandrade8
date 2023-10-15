@@ -5,7 +5,9 @@
  
  👯 Looking to collaborate on anything that will help me grow my skillset and portfolio.
 
- ⚡ Outside Coding; lift weights, cook, play and analyze basketball & football. Getting into Golf. Game a little on Xbox. 
+ ⚡ Outside Coding; lift weights, cook, play and analyze basketball & football. Getting into Golf. 
+  - Lift 6x a week
+  - Deep Work 6x a week
   - Relaxing or resting 
  
  <!--

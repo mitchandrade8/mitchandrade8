@@ -8,7 +8,8 @@
  ⚡ Outside Coding; lift weights, cook, play and analyze basketball & football. Getting into Golf. 
   - Lift 6x a week
   - Deep Work 6x a week
-  - Relaxing or resting 
+  - Relaxing or resting
+  - Want to travel 
  
  <!--
 - 🤔 I’m looking for help with ...

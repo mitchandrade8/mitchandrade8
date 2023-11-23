@@ -9,7 +9,10 @@
   - Lift 6x a week
   - Deep Work 6x a week
   - Relaxing or resting
-  - Want to travel 
+  - Want to travel
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchandrade8&show_icons=true)
  
  <!--
 - 🤔 I’m looking for help with ...

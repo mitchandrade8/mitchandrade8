@@ -1,5 +1,7 @@
 
  🔭 Currently working on personal SwiftUI Porjects to push onto the AppStore. 
+
+ 🦬 Education: CU Boulder Computer Science 2024 - n/a 
  
  🌱 Becoming a professional Software Engineer.
  

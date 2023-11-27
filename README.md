@@ -1,6 +1,6 @@
 
  🔭 Currently working on:
-  - personal SwiftUI Porjects to push onto the AppStore.
+  - SwiftUI Porjects to push onto the AppStore.
   - Python & C++ projects
 
  🦬 Education: CU Boulder Computer Science 2024 - n/a 

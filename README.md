@@ -4,7 +4,9 @@
   - Python & C++ projects
 
  🦬 Education: CU Boulder Computer Science 2024 - n/a 
+ - C++ & Python
  - Discrete Mathematics
+ - Data Structures & Algorithms
  
  🌱 Becoming a professional Software Engineer.
  

@@ -1,12 +1,16 @@
 
  🔭 Currently working on:
-  - SwiftUI Porjects to push onto the AppStore.
+  - Java and refining my math skills
   - Python & C++ projects
 
  🦬 Education: CU Boulder Computer Science 2024 - n/a 
  - C++ & Python
  - Discrete Mathematics
  - Data Structures & Algorithms
+
+ ⚙️ Education: MIT opencouseware 2024 - n/a
+ - Discrete mathematics
+ - algorithms
  
  🌱 Becoming a professional Software Engineer.
  

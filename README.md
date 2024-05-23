@@ -9,8 +9,8 @@
  - Data Structures & Algorithms
 
  ⚙️ Education: MIT opencouseware 2024 - n/a
- - Discrete mathematics
- - algorithms
+ - Discrete mathematics for Computer Science
+ - Algorithms
  
  🌱 Becoming a professional Software Engineer.
  

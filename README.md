@@ -3,7 +3,10 @@
   - Java and refining my math skills
   - Python & C++ projects
 
- 🦬 Education: CU Boulder Computer Science 2024 - n/a 
+ 🦬 Education: CU Boulder Computer Science 2024 - 2026
+ * Member of
+ * NSBE : National Society of Black Engineers
+ * SHPE : Society of Hispanic Professional Engineers
  - C++ & Python
  - Discrete Mathematics
  - Data Structures & Algorithms

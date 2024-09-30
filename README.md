@@ -10,10 +10,11 @@
  - C++ & Python
  - Discrete Mathematics
  - Data Structures & Algorithms
-
- ⚙️ Education: MIT opencouseware 2024 - n/a
- - Discrete mathematics for Computer Science
- - Algorithms
+<!--
+# ⚙️ Education: MIT opencouseware 2024 - n/a
+# - Discrete mathematics for Computer Science
+# - Algorithms
+-->
  
  🌱 Becoming a professional Software Engineer.
  

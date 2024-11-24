@@ -6,10 +6,11 @@ While Completing my finance degree and working i got curious about tech and star
 After going through a lot of rejection trying to get a entry level iOS developer job i reaccessed myself and enrolled back into school for CS and started to learn more about what the specfic skills and languages most used for jobs and been trying to find what has the biggest spark for me in Tech.  Really enjoyed discrete Math and building entire projects.
 
  🦬 Education: CU Boulder Computer Science 2024 - 2026
- * Member of
  * SHPE : Society of Hispanic Professional Engineers
- - C++ & Python
+ - C++ & Python & Java
  - Discrete Mathematics
+ - Intro to computing
+ - Linear Algebra
  - Data Structures & Algorithms
 
  

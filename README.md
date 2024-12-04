@@ -21,6 +21,6 @@ After going through a lot of rejection trying to get a entry level iOS developer
 HackerRank Link:
 https://hackerrank.com/profile/mitchandrade8
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchandrade8&show_icons=true&theme=radical)
+
  
 

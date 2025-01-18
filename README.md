@@ -14,6 +14,7 @@ After going through a lot of rejection trying to get a entry level iOS developer
  - Intro to computing
  - Linear Algebra
  - Data Structures & Algorithms
+ - More coming soon ---
 
  
 

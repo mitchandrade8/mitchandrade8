@@ -7,6 +7,8 @@ After going through a lot of rejection trying to get a entry level iOS developer
 
  🦬 Education: CU Boulder Computer Science 2024 - 2026
  * SHPE : Society of Hispanic Professional Engineers
+ * NSLS : National Society of Leadership and Success
+   
  - C++ & Python & Java
  - Discrete Mathematics
  - Intro to computing

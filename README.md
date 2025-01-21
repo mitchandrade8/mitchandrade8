@@ -12,6 +12,7 @@ After going through a lot of rejection trying to get a entry level iOS developer
  - C++ & Python & Java
  - Discrete Mathematics
  - Intro to computing
+ - Cognitive Science
  - Linear Algebra
  - Data Structures & Algorithms
  - More coming soon ---

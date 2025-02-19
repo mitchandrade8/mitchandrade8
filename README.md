@@ -21,7 +21,7 @@ Courses :
  - Cognitive Science: In-Progress
  - Linear Algebra: Priming for
  - Operating Systems: Priming for
- - Data Structures & Algorithms: In-Progress
+ - Data Structures & Algorithms: In-Progress + and learning and building on my own
  - More coming soon ---
 
    

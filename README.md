@@ -20,6 +20,7 @@ Courses :
  - Intro to computing: Completed
  - Cognitive Science: In-Progress
  - Linear Algebra: Priming for
+ - Operating Systems: Priming for
  - Data Structures & Algorithms: In-Progress
  - More coming soon ---
 

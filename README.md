@@ -9,12 +9,12 @@ After going through a lot of rejection trying to get a entry level iOS developer
  * SHPE : Society of Hispanic Professional Engineers
  * NSLS : National Society of Leadership and Success
    
- - C++ & Python & Java
- - Discrete Mathematics
- - Intro to computing
- - Cognitive Science
- - Linear Algebra
- - Data Structures & Algorithms
+ - C++ & Python & Java: Proficient
+ - Discrete Mathematics: Completed and Proficient
+ - Intro to computing: Completed
+ - Cognitive Science: In-Progress
+ - Linear Algebra: Priming for
+ - Data Structures & Algorithms: In-Progress
  - More coming soon ---
 
  

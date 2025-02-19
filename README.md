@@ -26,6 +26,7 @@ Courses :
 
    
 Leetcode and HackerRank: 
+- Priming and prepping by doing 'NeetCode'
 - Short on time but progress is coming soon!
   
 HackerRank Link:

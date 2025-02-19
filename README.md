@@ -23,7 +23,7 @@ Courses :
  - Data Structures & Algorithms: In-Progress
  - More coming soon ---
 
- - 
+   
 Leetcode and HackerRank: 
 - Short on time but progress is coming soon!
 HackerRank Link:

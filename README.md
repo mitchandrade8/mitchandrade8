@@ -32,6 +32,8 @@ Leetcode and HackerRank:
 HackerRank Link:
 https://hackerrank.com/profile/mitchandrade8
 
-
+Books:
+- Data Structures & Algorithms in C++ -- Goodrich, Tamassia Mount  : In progress
+- Algorithms Illuminated Omnibus Edition -- Tim Roughgarden        : In progress
  
 

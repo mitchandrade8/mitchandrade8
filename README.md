@@ -5,6 +5,8 @@ While Completing my finance degree and working i got curious about tech and star
 
 After going through a lot of rejection trying to get a entry level iOS developer job i reaccessed myself and enrolled back into school for CS and started to learn more about what the specfic skills and languages most used for jobs and been trying to find what has the biggest spark for me in Tech.  Really enjoyed discrete Math and building entire projects.
 
+Currently trying to figure out where i specifically want to specialize and grow as an Engineer. Strongest interests currently: Software Engineer, Cyber, AI and Data Science and maybe Systems Engineer.
+
 
  🦬 Education: CU Boulder Computer Science 2024 - 2026
 

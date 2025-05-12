@@ -20,10 +20,11 @@ Courses :
  - C++ & Python & Java: Proficient
  - Discrete Mathematics: Completed and Proficient
  - Intro to computing: Completed
- - Cognitive Science: In-Progress
+ - Cognitive Science: Completed
  - Linear Algebra: Priming for
- - Operating Systems: Priming for
- - Data Structures & Algorithms: In-Progress + learning and building on my own
+ - Operating Systems: In progress!
+ - Data Structures: Completed and now building projects
+ - Algorithms: In-Progress + learning and building on my own
  - More coming soon ---
 
    

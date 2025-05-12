@@ -24,7 +24,8 @@ Courses :
  - Linear Algebra: Priming for
  - Operating Systems: In progress!
  - Data Structures: Completed and now building projects
- - Algorithms: In-Progress + learning and building on my own
+ - Algorithms: Priming for
+ - AI: n/a
  - More coming soon ---
 
    

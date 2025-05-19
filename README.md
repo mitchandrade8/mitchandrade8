@@ -1,5 +1,5 @@
 
-** The Journey **
+## ** The Journey **
 
 While Completing my finance degree and working i got curious about tech and started teaching myself. Wanted to build a app that i would use on my iPhone thus started learning swift and building small and medium sized projects. Teaching myself was fun and extremely difficult. Attempted this journey with a friend but should have found someone more senior to help slowly onboard us to things and plan better. The learning curve was exciting, brutal and then things got more familar after building better systems for studying, tracking and building.  
 

@@ -8,7 +8,7 @@ After going through a lot of rejection trying to get a entry level iOS developer
 Currently trying to figure out where i specifically want to specialize and grow as an Engineer. Strongest interests currently: Software Engineer, Cyber, AI and Data Science and maybe Systems Engineer.
 
 
- 🦬 Education: CU Boulder Computer Science 2024 - 2026
+ **🦬 Education: CU Boulder Computer Science 2024 - 2026**
 
 
  Socities : 

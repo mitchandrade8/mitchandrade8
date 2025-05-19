@@ -22,13 +22,18 @@ Courses :
  - Intro to computing: Completed
  - Cognitive Science: Completed
  - Linear Algebra: Priming for
+ - Computer Systems: In progress!
  - Operating Systems: In progress!
  - Data Structures: Completed and now building projects
  - Algorithms: Priming for
  - AI: n/a
  - More coming soon ---
 
-   
+Certifications:
+- COMPTIA Security+: Study for exam
+- AWS: getting a fundamentals cert then -> Cloud Practioner
+- Looking at others
+
 Leetcode and HackerRank: 
 - Priming and prepping by doing 'NeetCode'
 - Short on time but progress is coming soon!
@@ -40,4 +45,3 @@ Books:
 - Data Structures & Algorithms in C++ -- Goodrich, Tamassia Mount  : In progress
 - Algorithms Illuminated Omnibus Edition -- Tim Roughgarden        : In progress
  
-

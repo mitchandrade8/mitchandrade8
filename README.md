@@ -30,7 +30,7 @@ Courses :
  - More coming soon ---
 
 Certifications:
-- COMPTIA Security+: Studying for exam
+- CompTIA SY0-701 Security+ : Studying for exam
 - AWS: getting a fundamentals cert then -> Cloud Practioner :: in progress
 - Looking at others
 

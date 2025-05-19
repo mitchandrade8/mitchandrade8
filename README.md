@@ -30,8 +30,8 @@ Courses :
  - More coming soon ---
 
 Certifications:
-- COMPTIA Security+: Study for exam
-- AWS: getting a fundamentals cert then -> Cloud Practioner
+- COMPTIA Security+: Studying for exam
+- AWS: getting a fundamentals cert then -> Cloud Practioner :: in progress
 - Looking at others
 
 Leetcode and HackerRank: 

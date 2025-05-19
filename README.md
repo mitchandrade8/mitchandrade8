@@ -10,7 +10,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 # **🦬 Education: CU Boulder Computer Science 2024 - 2026**
 
- ### Socities : 
+ ## Socities : 
  * SHPE : Society of Hispanic Professional Engineers
  * NSLS : National Society of Leadership and Success
 

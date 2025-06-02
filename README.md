@@ -28,6 +28,12 @@ Currently trying to figure out where i specifically want to specialize and grow 
  - AI: n/a
  - More coming soon ---
 
+## Tools :
+- Docker : In progress
+- Kubernetes: In progress
+- Terraform : waiting
+- AWS : waiting 
+
 ## Certifications:
 - CompTIA SY0-701 Security+ : Studying for exam
 - AWS: getting a fundamentals cert then -> Cloud Practioner :: in progress

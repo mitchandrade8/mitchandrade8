@@ -29,7 +29,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
  - More coming soon ---
 
 ## Tools :
-- Docker : In progress
+- | Docker (In progress) | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> |
 - Kubernetes: In progress
 - Terraform : waiting
 - AWS : waiting 

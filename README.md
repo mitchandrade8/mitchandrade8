@@ -29,8 +29,6 @@ Currently trying to figure out where i specifically want to specialize and grow 
  - More coming soon ---
 
 ## Tools :
-## 🛠️ Tools I Use
-
 | Tool           | Badge                                                                                                                            |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------|
 | Git            | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />                       |
@@ -45,6 +43,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 | Postman        | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />             |
 | GitHub Actions | <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> |
 | Slack          | <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />                 |
+| Jira           | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />                   |
 
 /* */
 

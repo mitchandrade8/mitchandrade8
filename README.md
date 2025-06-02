@@ -55,6 +55,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 | C              | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />                                 |  Proficient    |
 | Swift          | <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />                       |  Proficient     |
 | SQL            | <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />                     |    Learning     |
+| Markdown       | <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />               |  Proficient   |
 
 
 

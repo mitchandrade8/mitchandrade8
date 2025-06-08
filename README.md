@@ -60,9 +60,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 
 ## Certifications:
-- CompTIA SY0-701 Security+ : Studying for exam
-- AWS: getting a fundamentals cert then -> Cloud Practioner :: in progress
-- Looking at others
+
 
 ## Leetcode and HackerRank: 
 - Priming and prepping by doing 'NeetCode'

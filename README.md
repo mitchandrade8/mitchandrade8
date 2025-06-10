@@ -16,17 +16,18 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 
 ## Courses :
- - C++ & Python & Java: Proficient
- - Discrete Mathematics: Completed and Proficient
- - Intro to computing: Completed
- - Cognitive Science: Completed
- - Linear Algebra: Priming for
- - Computer Systems: In progress!
- - Operating Systems: In progress!
- - Data Structures: Completed and now building projects
- - Algorithms: Priming for
- - AI: n/a
- - More coming soon ---
+| Subject                | Icon | Status                |
+|------------------------|:----:|-----------------------|
+| Discrete Mathematics   | 🎲   | ✅ **Completed** |
+| Intro to Computing     | 💻   | ✅ **Completed** |
+| Cognitive Science      | 🧠   | ✅ **Completed** |
+| Data Structures        | 🔗   | ✅ **Completed** |
+| Computer Systems       | ⚙️   | 🚀 **In Progress** |
+| Operating Systems      | 🐧   | 🚀 **In Progress** |
+| Linear Algebra         | 📐   | 📚 **Priming For** |
+| Algorithms             | 📜   | 📚 **Priming For** |
+| Artificial Intelligence| 🤖   | ⏸️ **On Hold / N/A** |
+| *More coming soon...*  | ⏳   |                       |
 
 ## Tools :
 | Tool           | Badge                                                                                                                            | Status/Expertise   |

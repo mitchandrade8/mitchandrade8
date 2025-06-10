@@ -44,7 +44,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 ## Certifications:
 
 ![Loading...](https://raw.githubusercontent.com/google/material-design-icons/master/misc/animation/m2/ic_circular_progress_indicator_googblue_24dp.gif)
-![Loading...](https://i.gifer.com/ZZ5H.gif) 
+
 
 
 ## Leetcode and HackerRank: 

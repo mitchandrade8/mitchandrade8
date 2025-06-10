@@ -43,7 +43,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 ## Certifications:
 
-
+![Loading...](https://i.gifer.com/ZZ5H.gif)
 
 
 ## Leetcode and HackerRank: 

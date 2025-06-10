@@ -43,7 +43,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 ## Certifications:
 
-![Loading...](https://raw.githubusercontent.com/google/material-design-icons/master/misc/animation/m2/ic_circular_progress_indicator_googblue_24dp.gif)
+![Loading...](https://i.pinimg.com/originals/d9/93/cd/d993cd1ad3f3ad8c1d2433f563a73b43.gif)
 
 
 

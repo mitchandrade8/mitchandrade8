@@ -42,8 +42,8 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 
 ## Certifications:
-![Loading...](https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif)
-/*![Loading...](https://i.gifer.com/ZZ5H.gif) */
+
+![Loading...](https://i.gifer.com/ZZ5H.gif) 
 
 
 ## Leetcode and HackerRank: 

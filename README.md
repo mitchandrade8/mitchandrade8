@@ -10,25 +10,6 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 # **🦬 Education: CU Boulder Computer Science**
 
- ## Socities : 
- * SHPE : Society of Hispanic Professional Engineers
- * NSLS : National Society of Leadership and Success
-
-
-## Courses :
-| Subject                | Icon | Status                |
-|------------------------|:----:|-----------------------|
-| Discrete Mathematics   | 🎲   | ✅ **Completed** |
-| Intro to Computing     | 💻   | ✅ **Completed** |
-| Cognitive Science      | 🧠   | ✅ **Completed** |
-| Data Structures        | 🔗   | ✅ **Completed** |
-| Computer Systems       | ⚙️   | 🚀 **In Progress** |
-| Operating Systems      | 🐧   | 🚀 **In Progress** |
-| Linear Algebra         | 📐   | 📚 **Priming For** |
-| Algorithms             | 📜   | 📚 **Priming For** |
-| Artificial Intelligence| 🤖   | 🚀 **In Progress** |
-| *More coming soon...*  | ⏳   |                       |
-
 ## Tools :
 | Tool           | Badge                                                                                                                            | Status/Expertise   |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|

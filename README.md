@@ -43,27 +43,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 ## Certifications:
 
-<svg width="150" height="50" viewBox="0 0 150 50" xmlns="http://www.w3.org/2000/svg" fill="#000">
-    <style>
-        .bar {
-            fill: #3498db;
-            animation: wave 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
-        }
-        .bar:nth-child(2) { fill: #6a5acd; animation-delay: -0.1s; }
-        .bar:nth-child(3) { fill: #2ecc71; animation-delay: -0.2s; }
-        .bar:nth-child(4) { fill: #9b59b6; animation-delay: -0.3s; }
-        .bar:nth-child(5) { fill: #1abc9c; animation-delay: -0.4s; }
-        @keyframes wave {
-            0%, 60%, 100% { transform: initial; }
-            30% { transform: translateY(30px); }
-        }
-    </style>
-    <rect class="bar" x="10" y="10" width="15" height="10"/>
-    <rect class="bar" x="35" y="10" width="15" height="10"/>
-    <rect class="bar" x="60" y="10" width="15" height="10"/>
-    <rect class="bar" x="85" y="10" width="15" height="10"/>
-    <rect class="bar" x="110" y="10" width="15" height="10"/>
-</svg>
+
 
 ## Leetcode and HackerRank: 
 - Priming and prepping by doing 'NeetCode'

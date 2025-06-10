@@ -43,7 +43,10 @@ Currently trying to figure out where i specifically want to specialize and grow 
 
 ## Certifications:
 
-https://raw.githubusercontent.com/mitchandrade8/README-animations/refs/heads/main/loading.svg
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/loading.svg](https://raw.githubusercontent.com/mitchandrade8/README-animations/refs/heads/main/loading.svg)" alt="Loading Animation">
+</p>
+
 
 ## Leetcode and HackerRank: 
 - Priming and prepping by doing 'NeetCode'

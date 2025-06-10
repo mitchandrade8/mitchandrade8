@@ -26,7 +26,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 | Operating Systems      | 🐧   | 🚀 **In Progress** |
 | Linear Algebra         | 📐   | 📚 **Priming For** |
 | Algorithms             | 📜   | 📚 **Priming For** |
-| Artificial Intelligence| 🤖   | ⏸️ **On Hold / N/A** |
+| Artificial Intelligence| 🤖   | 🚀 **In Progress** |
 | *More coming soon...*  | ⏳   |                       |
 
 ## Tools :

@@ -28,6 +28,7 @@ Currently trying to figure out where i specifically want to specialize and grow 
 | Slack          | <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />                 | Proficient  |
 | Jenkins         | <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />         | Learning      |
 | Microsoft Azure | <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" /> | Learning  |
+| Jupyter         | <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />         |  Proficient       |
 
 ## Languages :
 | Language       | Badge                                                                                                                                    | Expertise         |

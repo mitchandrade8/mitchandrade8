@@ -26,6 +26,8 @@ Currently trying to figure out where i specifically want to specialize and grow 
 | GitHub Actions | <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> | Proficient |
 | Jira           | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />                   |  Learning |
 | Slack          | <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />                 | Proficient  |
+| Jenkins         | <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" />         | Learning      |
+| Microsoft Azure | <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" /> | Learning  |
 
 ## Languages :
 | Language       | Badge                                                                                                                                    | Expertise         |
@@ -38,6 +40,8 @@ Currently trying to figure out where i specifically want to specialize and grow 
 | Swift          | <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />                       |  Proficient     |
 | SQL            | <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />                     |    Learning     |
 | Markdown       | <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />               |  Proficient   |
+| HTML5           | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />               | Building/Learning      |
+| Bash/Shell      | <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell" />      |  Learning         |
 
 
 

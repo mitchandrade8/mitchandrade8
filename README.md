@@ -30,8 +30,8 @@ Currently trying to figure out where i specifically want to specialize and grow 
 | Microsoft Azure | <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" /> | Learning  |
 | Jupyter         | <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />         |  Proficient       |
 | Linux Command Line | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"> | Learning |
-| Ubuntu | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ubuntu_logo_icon.svg/200px-Ubuntu_logo_icon.svg.png" alt="Ubuntu Badge" width="20"/> | Proficient |
-| Virtual Machines | <img src="path/to/virtual_machines/badge.png" alt="Virtual Machines Badge" width="20"/> | Proficient |
+| Ubuntu |  | Proficient |
+| Virtual Machines |  | Proficient |
 
 ## Languages :
 | Language       | Badge                                                                                                                                    | Expertise         |

@@ -73,7 +73,7 @@ I'm passionate about continuous learning, solving real-world problems, and build
 
 
 ## Certifications:
-
+- Coming soon
 ![Loading...](https://i.gifer.com/ZZ5H.gif)
 
 

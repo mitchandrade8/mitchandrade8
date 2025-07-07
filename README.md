@@ -30,8 +30,10 @@ I'm passionate about continuous learning, solving real-world problems, and build
 **Major:** Computer Science
 
 **University of Northern Colorado**
+
 **Major:** Finance
 
+---
 
 ## Tools :
 | Tool           | Badge                                                                                                                            | Status/Expertise   |

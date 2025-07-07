@@ -29,7 +29,7 @@ I'm passionate about continuous learning, solving real-world problems, and build
 **University of Colorado Boulder**  
 **Major:** Computer Science
 
-**University of Northern Colorado**
+**University of Northern Colorado**              
 **Major:** Finance
 
 ---

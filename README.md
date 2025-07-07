@@ -57,6 +57,8 @@ I'm passionate about continuous learning, solving real-world problems, and build
 | Ubuntu |  | Proficient |
 | Virtual Machines |  | Proficient |
 
+---
+
 ## Languages :
 | Language       | Badge                                                                                                                                    | Expertise         |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -71,19 +73,24 @@ I'm passionate about continuous learning, solving real-world problems, and build
 | HTML5           | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />               | Building/Learning      |
 | Bash/Shell      | <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell" />      |  Learning         |
 
-
+---
 
 ## Certifications:
 - Coming soon
 ![Loading...](https://i.gifer.com/ZZ5H.gif)
 
+---
 
 ## Leetcode and HackerRank: 
 - Priming and prepping by doing 'NeetCode'
 - Short on time but progress is coming soon!
+
+---
   
 ## HackerRank Link:
 https://hackerrank.com/profile/mitchandrade8
+
+---
 
 ## Books:
 - Data Structures & Algorithms in C++ -- Goodrich, Tamassia Mount  : In progress

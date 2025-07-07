@@ -1,14 +1,29 @@
 
-#  **The Journey**
+👋 About Me
+I'm a self-taught developer who started my journey while earning a Finance degree and working full-time. Curiosity about tech led me to teach myself Swift with the goal of building an iPhone app I’d actually use. That passion grew into developing small to medium-sized projects and exploring the broader world of software engineering.
 
-While Completing my finance degree and working i got curious about tech and started teaching myself. Wanted to build a app that i would use on my iPhone thus started learning swift and building small and medium sized projects. Teaching myself was fun and extremely difficult. Attempted this journey with a friend but should have found someone more senior to help slowly onboard us to things and plan better. The learning curve was exciting, brutal and then things got more familar after building better systems for studying, tracking and building.  
+Teaching myself was both exciting and challenging. I started learning alongside a friend, but quickly realized the value of mentorship and structure in such a complex field. Over time, I built better systems for learning, tracking progress, and turning ideas into working software.
 
-After going through a lot of rejection trying to get a entry level iOS developer job i reaccessed myself and enrolled back into school for CS and started to learn more about what the specfic skills and languages most used for jobs and been trying to find what has the biggest spark for me in Tech.  Really enjoyed discrete Math and building entire projects.
+After facing tough rejections applying for iOS roles, I took a step back, reassessed, and made the decision to go back to school for Computer Science at CU Boulder. This helped me understand industry expectations, identify in-demand skills, and clarify the direction I want to take in tech.
 
-Currently trying to figure out where i specifically want to specialize and grow as an Engineer. Strongest interests currently: Software Engineer, Cyber, AI and Data Science and maybe Systems Engineer.
+I especially enjoyed Discrete Math and building full-stack applications. Those experiences deepened my love for logic, architecture, and systems thinking.
 
+🔭 Current Focus
+I’m still exploring and refining where I want to specialize as an engineer. My strongest interests right now include:
 
-# **🦬 Education: CU Boulder Computer Science**
+Software Engineering
+
+Cybersecurity
+
+Artificial Intelligence & Data Science
+
+Systems Engineering
+
+I’m passionate about continuous learning, building impactful projects, and finding the spark that drives me deeper into the tech world.
+
+🎓 Education
+University of Colorado Boulder
+Major: Computer Science
 
 ## Tools :
 | Tool           | Badge                                                                                                                            | Status/Expertise   |

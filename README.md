@@ -1,36 +1,46 @@
 
-## 👋 About Me
+# Mitchell Andrade - Software Engineer & Data Enthusiast
 
-I'm a self-taught developer who began my tech journey while earning a Finance degree and working full-time. Curiosity led me to learn Swift so I could build an iPhone app I would actually use. That initial spark grew into building small- to medium-sized projects and exploring the broader world of software engineering.
+### About Me
 
-Teaching myself was both exciting and challenging. I started learning with a friend, but quickly realized the value of mentorship and structured learning. Over time, I developed systems to study more effectively, track progress, and bring ideas to life through code.
+As a self-taught developer, my journey into technology commenced alongside pursuing a Finance degree and managing full-time work. This dual path ignited a passion for practical application, initially driving me to master Swift and iOS development. This foundational experience rapidly expanded into designing and implementing small to medium-scale software projects, deepening my understanding of the broader software engineering landscape.
 
-After facing tough rejections when applying for iOS roles, I reassessed my path and decided to return to school for Computer Science at CU Boulder. That decision opened the door to deeper technical learning and helped me understand the skills and tools most valued in the industry.
+My early learning was a blend of independent study and collaborative exploration. This period highlighted the critical importance of structured learning and mentorship. I subsequently developed robust personal systems for efficient study, progress tracking, and translating conceptual ideas into tangible code.
 
-I particularly enjoyed Discrete Math and building full-stack applications, which solidified my interest in logic, architecture, and systems thinking.
+Following initial setbacks in securing iOS-focused roles, I strategically re-evaluated my career trajectory. This led to a pivotal decision: to pursue formal education in Computer Science at the University of Colorado Boulder. This academic transition provided a more profound dive into advanced technical concepts, equipping me with a comprehensive understanding of the tools, methodologies, and architectural patterns most valued within the industry.
+
+My areas of particular interest and enjoyment include:
+* **Discrete Mathematics:** This discipline solidified my appreciation for logical reasoning, foundational algorithms, and the structured thinking essential for robust system design.
+* **Full-Stack Application Development:** The process of architecting and implementing end-to-end solutions, from front-end user interfaces to back-end services and database integration, has significantly enhanced my understanding of system architecture and distributed systems.
+
+### Current Focus & Interests
+
+I am actively exploring and refining my specialization within the engineering domain. My current technical interests and areas of ongoing study include:
+
+* **Software Engineering:** Focusing on scalable, maintainable, and efficient software design principles and best practices.
+* **Cybersecurity:** Investigating secure coding practices, vulnerability analysis, and robust system hardening.
+* **Artificial Intelligence & Data Science:** Delving into machine learning algorithms, data analysis techniques, and their practical applications.
+* **Systems Engineering:** Exploring the design, integration, and management of complex engineering systems.
+
+I am driven by a strong commitment to continuous learning, a passion for solving complex, real-world problems through innovative technical solutions, and a dedication to building impactful software that delivers tangible value.
+
+### Education
+
+* **University of Colorado Boulder**
+    * Major: Computer Science
+    * *Anticipated Graduation: [Month Year, e.g., May 2026] (Add if applicable, otherwise remove)*
+
+* **University of Northern Colorado**
+    * Major: Finance
 
 ---
 
-## 🔭 Current Focus
+**Connect with me:**
+* [LinkedIn Profile](YourLinkedInProfileURL)
+* [Personal Website/Portfolio](YourWebsiteURL - if you have one)
+* [Email](mailto:your.email@example.com)
 
-I’m still exploring and refining where I want to specialize as an engineer. My current interests include:
-
-- **Software Engineering**
-- **Cybersecurity**
-- **Artificial Intelligence & Data Science**
-- **Systems Engineering**
-
-I'm passionate about continuous learning, solving real-world problems, and building impactful software.
-
----
-
-## 🎓 Education
-
-**University of Colorado Boulder**  
-**Major:** Computer Science
-
-**University of Northern Colorado**              
-**Major:** Finance
+**Note:** This README is a living document and will be updated as my skills and projects evolve.
 
 ---
 

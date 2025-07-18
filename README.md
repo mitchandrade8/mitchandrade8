@@ -28,19 +28,11 @@ I am driven by a strong commitment to continuous learning, a passion for solving
 
 * **University of Colorado Boulder**
     * Major: Computer Science
-    * *Anticipated Graduation: [Month Year, e.g., May 2026] (Add if applicable, otherwise remove)*
 
 * **University of Northern Colorado**
     * Major: Finance
 
 ---
-
-**Connect with me:**
-* [LinkedIn Profile](YourLinkedInProfileURL)
-* [Personal Website/Portfolio](YourWebsiteURL - if you have one)
-* [Email](mailto:your.email@example.com)
-
-**Note:** This README is a living document and will be updated as my skills and projects evolve.
 
 ---
 
@@ -87,7 +79,7 @@ I am driven by a strong commitment to continuous learning, a passion for solving
 
 ## Certifications:
 - Coming soon
-![Loading...](https://i.gifer.com/ZZ5H.gif)
+
 
 ---
 

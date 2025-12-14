@@ -1,28 +1,5 @@
 
-# Mitchell Andrade - Software Engineer & Data Enthusiast
-
-### About Me
-
-As a self-taught developer, my journey into technology commenced alongside pursuing a Finance degree and managing full-time work. This dual path ignited a passion for practical application, initially driving me to master Swift and iOS development. This foundational experience rapidly expanded into designing and implementing small to medium-scale software projects, deepening my understanding of the broader software engineering landscape.
-
-My early learning was a blend of independent study and collaborative exploration. This period highlighted the critical importance of structured learning and mentorship. I subsequently developed robust personal systems for efficient study, progress tracking, and translating conceptual ideas into tangible code.
-
-Following initial setbacks in securing iOS-focused roles, I strategically re-evaluated my career trajectory. This led to a pivotal decision: to pursue formal education in Computer Science at the University of Colorado Boulder. This academic transition provided a more profound dive into advanced technical concepts, equipping me with a comprehensive understanding of the tools, methodologies, and architectural patterns most valued within the industry.
-
-My areas of particular interest and enjoyment include:
-* **Discrete Mathematics:** This discipline solidified my appreciation for logical reasoning, foundational algorithms, and the structured thinking essential for robust system design.
-* **Full-Stack Application Development:** The process of architecting and implementing end-to-end solutions, from front-end user interfaces to back-end services and database integration, has significantly enhanced my understanding of system architecture and distributed systems.
-
-### Current Focus & Interests
-
-I am actively exploring and refining my specialization within the engineering domain. My current technical interests and areas of ongoing study include:
-
-* **Software Engineering:** Focusing on scalable, maintainable, and efficient software design principles and best practices.
-* **Cybersecurity:** Investigating secure coding practices, vulnerability analysis, and robust system hardening.
-* **Artificial Intelligence & Data Science:** Delving into machine learning algorithms, data analysis techniques, and their practical applications.
-* **Systems Engineering:** Exploring the design, integration, and management of complex engineering systems.
-
-I am driven by a strong commitment to continuous learning, a passion for solving complex, real-world problems through innovative technical solutions, and a dedication to building impactful software that delivers tangible value.
+# Mitchell Andrade 
 
 ### Education
 

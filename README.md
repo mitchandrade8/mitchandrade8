@@ -13,6 +13,24 @@
 
 ---
 
+## AI, ML :
+| Tool | Badge | Status/Expertise |
+| :--- | :--- | :--- |
+| **PyTorch** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> | \| Learning \|
+| **TensorFlow** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> | \| Learning \|
+| **Scikit-Learn** | <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> | \| Proficient \|
+| **Pandas** | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> | \| Proficient \|
+| **NumPy** | <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> | \| Proficient \|
+| **OpenAI API** | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> | \| Learning \|
+| **Hugging Face** | <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /> | \| Learning \|
+| **LangChain** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> | \| Learning \|
+| **OpenCV** | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> | \| Learning \|
+| **Databricks** | <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" /> | \| Learning \|
+| **MongoDB** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> | \| Proficient \|
+| **GraphQL** | <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> | \| Learning \|
+| **Next.js** | <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" /> | \| Proficient \|
+| **Tailwind CSS** | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> | \| Proficient \|
+
 ## Tools :
 | Tool           | Badge                                                                                                                            | Status/Expertise   |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|
@@ -53,24 +71,6 @@
 | Bash/Shell      | <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell" />      |  Learning         |
 
 ---
-
-## AI, ML & Modern Tech :
-| Tool | Badge | Status/Expertise |
-| :--- | :--- | :--- |
-| **PyTorch** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> | \| Learning \|
-| **TensorFlow** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> | \| Learning \|
-| **Scikit-Learn** | <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> | \| Proficient \|
-| **Pandas** | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> | \| Proficient \|
-| **NumPy** | <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> | \| Proficient \|
-| **OpenAI API** | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> | \| Learning \|
-| **Hugging Face** | <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /> | \| Learning \|
-| **LangChain** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> | \| Learning \|
-| **OpenCV** | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> | \| Learning \|
-| **Databricks** | <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" /> | \| Learning \|
-| **MongoDB** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> | \| Proficient \|
-| **GraphQL** | <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> | \| Learning \|
-| **Next.js** | <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" /> | \| Proficient \|
-| **Tailwind CSS** | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> | \| Proficient \|
 
 ## Certifications:
 - Coming soon

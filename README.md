@@ -73,22 +73,14 @@
 ---
 
 ## Certifications:
-- Coming soon
+- AWS Associate level:
+- 
 
 
 ---
 
-## Leetcode and HackerRank: 
-- Priming and prepping by doing 'NeetCode'
-- Short on time but progress is coming soon!
 
----
-  
 ## HackerRank Link:
 https://hackerrank.com/profile/mitchandrade8
 
----
 
-## Books:
-- Data Structures & Algorithms in C++ -- Goodrich, Tamassia Mount  : In progress
-- Algorithms Illuminated Omnibus Edition -- Tim Roughgarden        : In progress
